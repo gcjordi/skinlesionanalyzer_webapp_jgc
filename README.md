@@ -15,6 +15,8 @@ La clasificación de las lesiones cutáneas se realiza mediante un sistema de in
 
 NOTAS IMPORTANTES:
 
-En caso de interés por cualquier motivo puede contactarse con JORDI GARCIA CASTILLÓN en el eMail info@jordigarcia.eu
+En caso de interés por cualquier motivo puede contactarse con JORDI GARCIA CASTILLÓN en el eMail info@ehealthai.eu
 
 Este sistema es tan sólo un prototipo que tiene finalidades informativas e ilustrativas. No debe entenderse en ningún momento como un sistema en producción y sus resultados no suponen consejo médico o sanitario de ningún tipo. El usuario realiza la utilización de este sistema bajo su entera responsabilidad y debe de consultar a su facultativo especialista en caso de detectar cualquier potencial riesgo para su salud a raíz de una lesión cutánea cualquiera.
+
+Puede testearse en vivo su funcionamiento en la web ehealthai.eu
